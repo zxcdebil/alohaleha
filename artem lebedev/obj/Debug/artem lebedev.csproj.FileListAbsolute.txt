@@ -1,0 +1,10 @@
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\bin\Debug\artem lebedev.exe.config
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\bin\Debug\artem lebedev.exe
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\bin\Debug\artem lebedev.pdb
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem lebedev.csproj.AssemblyReference.cache
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem_lebedev.Form1.resources
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem_lebedev.Properties.Resources.resources
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem lebedev.csproj.GenerateResource.cache
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem lebedev.csproj.CoreCompileInputs.cache
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem lebedev.exe
+C:\Users\29361281\source\repos\artem lebedev\artem lebedev\obj\Debug\artem lebedev.pdb
